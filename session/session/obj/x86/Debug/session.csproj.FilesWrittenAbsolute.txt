@@ -1,0 +1,5 @@
+/home/philipp/sessions/session/session/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/philipp/sessions/session/session/bin/Debug/session.exe.mdb
+/home/philipp/sessions/session/session/bin/Debug/session.exe
+/home/philipp/sessions/session/session/obj/x86/Debug/session.exe
+/home/philipp/sessions/session/session/obj/x86/Debug/session.exe.mdb
